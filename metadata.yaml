@@ -1,0 +1,25 @@
+_repo: Santo-Domingo--A-Country-with-a-Future_9813
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Schoenrich, Otto
+    birthdate: 1876
+    gutenberg_agent_id: '3149'
+    url: http://www.gutenberg.org/2009/agents/3149
+description: ''
+gutenberg_issued: '2006-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9813'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dominican Republic'
+- !lcsh 'Dominican Republic -- Economic conditions'
+- !lcsh 'Dominican Republic -- History'
+- !lcc 'F1900'
+- GITenberg
+title: 'Santo Domingo: A Country with a Future'
+url: http://www.gutenberg.org/ebooks/9813
